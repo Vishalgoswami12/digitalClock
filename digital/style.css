@@ -1,0 +1,23 @@
+body{
+    background-color: brown;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+#time{
+    width: 317px;
+    height: 88px;
+    border-radius: 10px;
+    background-color: black;
+    margin-top: 16%;
+    color: red;
+    font-size: 60px;
+    padding: 0 8px;
+    padding-top: 10px;
+}
